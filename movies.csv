@@ -1,0 +1,31 @@
+id,title,genre,rating,popularity,year
+1,Inception,Sci-Fi,8.8,90,2010
+2,Avatar,Action,7.9,95,2009
+3,Joker,Drama,8.5,92,2019
+4,Interstellar,Sci-Fi,8.6,88,2014
+5,Frozen 2,Animation,6.9,85,2019
+6,Avengers Endgame,Action,8.4,98,2019
+7,Tangled,Animation,7.7,82,2010
+8,The Dark Knight,Action,9.0,97,2008
+9,Coco,Animation,8.4,84,2017
+10,Gravity,Sci-Fi,7.7,80,2013
+11,The Matrix,Sci-Fi,8.7,89,1999
+12,Shutter Island,Thriller,8.2,78,2010
+13,The Lion King,Animation,8.5,83,1994
+14,Black Panther,Action,7.3,90,2018
+15,The Social Network,Drama,7.8,75,2010
+16,Whiplash,Drama,8.5,79,2014
+17,The Prestige,Drama,8.5,81,2006
+18,Mad Max Fury Road,Action,8.1,88,2015
+19,John Wick,Action,7.4,82,2014
+20,Spider-Man No Way Home,Action,8.3,96,2021
+21,RRR,Action,8.0,93,2022
+22,KGF Chapter 1,Action,8.2,91,2018
+23,KGF Chapter 2,Action,8.4,94,2022
+24,Bahubali The Beginning,Action,8.0,89,2015
+25,Bahubali The Conclusion,Action,8.2,95,2017
+26,3 Idiots,Comedy,8.4,94,2009
+27,Dangal,Biography,8.4,92,2016
+28,Drishyam,Thriller,8.2,87,2015
+29,Kantara,Drama,8.3,90,2022
+30,Oppenheimer,Biography,8.6,93,2023
